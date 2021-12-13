@@ -1,0 +1,28 @@
+.card-body {
+  padding: 0 10px !important;
+}
+
+.commentBox {
+  background-color: whitesmoke;
+  border-bottom: 0.5px solid grey;
+  padding: 2px;
+}
+
+.cardHeader {
+  display: flex;
+  justify-content: space-between;
+  padding: 5px 10px;
+}
+
+/* .cardFollow {
+  box-shadow: 1px 1px solid grey;
+  background-color: whitesmoke;
+  padding: 5px 10px;
+  cursor: pointer;
+  border-radius: 10px;
+}
+
+.cardFollow:hover {
+  background-color: grey;
+  color: white;
+} */

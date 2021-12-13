@@ -1,0 +1,29 @@
+.profileContainer {
+  margin-top: 50px;
+}
+
+.profileImg {
+  margin-left: 50px;
+  margin-top: 50px;
+  box-shadow: 1px 1px 9px grey;
+  height: 300px;
+  width: 400px;
+  object-fit: cover;
+}
+
+span {
+  padding-right: 20px;
+  font-size: 20px;
+}
+
+.profilePics {
+  display: flex;
+  margin-top: 5px;
+  flex-wrap: wrap;
+}
+
+.profilePics > img {
+  height: 150px;
+  width: 200px;
+  margin: 10px;
+}
